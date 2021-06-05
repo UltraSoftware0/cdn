@@ -1,5 +1,5 @@
 // START: Sleep
-function sleep(milliseconds)
+function sleep(milliseconds) // Reference: https://sitepoint.com/delay-sleep-pause-wait
 {
   const date = Date.now();
   let currentDate = null;
