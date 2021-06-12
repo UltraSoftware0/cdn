@@ -1,3 +1,15 @@
+/* Future Functions:
+ * - Loading Spinner (Including Style Editing From Script)
+ * - Ajax Content Load
+ * - Ajax Form Submit
+ * - Items to Hide / Items to Show
+ * - Sorting
+ * - Drag & Drop Element
+ * - Notify
+ * - DataTable Simple Init
+ */
+
+
 // START: Sleep
 function sleep(milliseconds) // Reference: https://sitepoint.com/delay-sleep-pause-wait
 {
