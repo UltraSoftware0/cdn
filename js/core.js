@@ -7,6 +7,8 @@
  * - Drag & Drop Element
  * - Notify
  * - DataTable Simple Init
+ * - Modals (+Styling)
+ * - Confirmation Modal (Delete, Rename, etc...)
  */
 
 
