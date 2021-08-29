@@ -57,6 +57,7 @@ $.fn.dynamicRows = function (data) {
         var variables = jsonClone(_data.variables ?? {});
 
         Object.entries(variables).forEach(([key, value]) => {
+            console.log('ULTRA: ' + value); 
             var replaceThis = '%' + key + '%';
             htmlToAdd = htmlToAdd.replace(new RegExp(replaceThis, 'g'), value);
         });
