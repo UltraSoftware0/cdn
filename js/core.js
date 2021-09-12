@@ -9,6 +9,7 @@
  * - DataTable Simple Init
  * - Modals (+Styling)
  * - Confirmation Modal (Delete, Rename, etc...)
+ * - Single Page Load Library
  */
 
 
